@@ -13,11 +13,13 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dandetejaswini/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/dandetejaswini/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/dandetejaswini/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/dandetejaswini/leetcode/tree/master/0217-contains-duplicate) |
 # Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dandetejaswini/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/dandetejaswini/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/dandetejaswini/leetcode/tree/master/0217-contains-duplicate) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dandetejaswini/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/dandetejaswini/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/dandetejaswini/leetcode/tree/master/0217-contains-duplicate) |
 # Dynamic Programming
 |  |
 | ------- |
