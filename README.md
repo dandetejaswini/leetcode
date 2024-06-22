@@ -17,6 +17,7 @@
 | [0219-contains-duplicate-ii](https://github.com/dandetejaswini/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/dandetejaswini/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dandetejaswini/leetcode/tree/master/0283-move-zeroes) |
+| [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/dandetejaswini/leetcode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2058-concatenation-of-array](https://github.com/dandetejaswini/leetcode/tree/master/2058-concatenation-of-array) |
 # Hash Table
 |  |
