@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dandetejaswini/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/dandetejaswini/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/dandetejaswini/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dandetejaswini/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dandetejaswini/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -47,6 +48,7 @@
 # Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/dandetejaswini/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/dandetejaswini/leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/dandetejaswini/leetcode/tree/master/0268-missing-number) |
 # Sorting
@@ -76,3 +78,7 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/dandetejaswini/leetcode/tree/master/2058-concatenation-of-array) |
+# String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/dandetejaswini/leetcode/tree/master/0013-roman-to-integer) |
