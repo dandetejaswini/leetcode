@@ -101,3 +101,14 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dandetejaswini/leetcode/tree/master/0021-merge-two-sorted-lists) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/dandetejaswini/leetcode/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/dandetejaswini/leetcode/tree/master/0069-sqrtx) |
+<!---LeetCode Topics End-->
