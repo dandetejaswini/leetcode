@@ -108,6 +108,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/dandetejaswini/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/dandetejaswini/leetcode/tree/master/0070-climbing-stairs) |
+| [1635-number-of-good-pairs](https://github.com/dandetejaswini/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,4 +129,16 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/dandetejaswini/leetcode/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/dandetejaswini/leetcode/tree/master/1635-number-of-good-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/dandetejaswini/leetcode/tree/master/1635-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/dandetejaswini/leetcode/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
