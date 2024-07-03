@@ -109,6 +109,7 @@
 | [0069-sqrtx](https://github.com/dandetejaswini/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/dandetejaswini/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/dandetejaswini/leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/dandetejaswini/leetcode/tree/master/0231-power-of-two) |
 | [1635-number-of-good-pairs](https://github.com/dandetejaswini/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
 |  |
@@ -151,4 +152,12 @@
 |  |
 | ------- |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dandetejaswini/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/dandetejaswini/leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/dandetejaswini/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
