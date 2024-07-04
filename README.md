@@ -110,6 +110,7 @@
 | [0070-climbing-stairs](https://github.com/dandetejaswini/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/dandetejaswini/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/dandetejaswini/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/dandetejaswini/leetcode/tree/master/0258-add-digits) |
 | [1635-number-of-good-pairs](https://github.com/dandetejaswini/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
 |  |
@@ -160,4 +161,12 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/dandetejaswini/leetcode/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/dandetejaswini/leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/dandetejaswini/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
