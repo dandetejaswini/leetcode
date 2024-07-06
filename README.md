@@ -113,6 +113,7 @@
 | [0258-add-digits](https://github.com/dandetejaswini/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/dandetejaswini/leetcode/tree/master/0263-ugly-number) |
 | [1635-number-of-good-pairs](https://github.com/dandetejaswini/leetcode/tree/master/1635-number-of-good-pairs) |
+| [2645-pass-the-pillow](https://github.com/dandetejaswini/leetcode/tree/master/2645-pass-the-pillow) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/dandetejaswini/leetcode/tree/master/0258-add-digits) |
+| [2645-pass-the-pillow](https://github.com/dandetejaswini/leetcode/tree/master/2645-pass-the-pillow) |
 ## Number Theory
 |  |
 | ------- |
