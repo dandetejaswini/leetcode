@@ -123,6 +123,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dandetejaswini/leetcode/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/dandetejaswini/leetcode/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/dandetejaswini/leetcode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/dandetejaswini/leetcode/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
 | ------- |
