@@ -117,6 +117,7 @@
 | [0412-fizz-buzz](https://github.com/dandetejaswini/leetcode/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/dandetejaswini/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/dandetejaswini/leetcode/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/dandetejaswini/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/dandetejaswini/leetcode/tree/master/2556-convert-the-temperature) |
 | [2645-pass-the-pillow](https://github.com/dandetejaswini/leetcode/tree/master/2645-pass-the-pillow) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/dandetejaswini/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/dandetejaswini/leetcode/tree/master/0258-add-digits) |
+| [2491-smallest-even-multiple](https://github.com/dandetejaswini/leetcode/tree/master/2491-smallest-even-multiple) |
 ## Stack
 |  |
 | ------- |
