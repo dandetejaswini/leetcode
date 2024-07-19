@@ -115,6 +115,7 @@
 | [0292-nim-game](https://github.com/dandetejaswini/leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/dandetejaswini/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/dandetejaswini/leetcode/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dandetejaswini/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dandetejaswini/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/dandetejaswini/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/dandetejaswini/leetcode/tree/master/2383-add-two-integers) |
@@ -157,6 +158,7 @@
 ## Array
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/dandetejaswini/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1635-number-of-good-pairs](https://github.com/dandetejaswini/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1720-crawler-log-folder](https://github.com/dandetejaswini/leetcode/tree/master/1720-crawler-log-folder) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dandetejaswini/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -174,6 +176,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/dandetejaswini/leetcode/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dandetejaswini/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dandetejaswini/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
