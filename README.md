@@ -118,6 +118,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/dandetejaswini/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dandetejaswini/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/dandetejaswini/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/dandetejaswini/leetcode/tree/master/1642-water-bottles) |
 | [2383-add-two-integers](https://github.com/dandetejaswini/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/dandetejaswini/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/dandetejaswini/leetcode/tree/master/2556-convert-the-temperature) |
@@ -195,6 +196,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/dandetejaswini/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/dandetejaswini/leetcode/tree/master/0412-fizz-buzz) |
+| [1642-water-bottles](https://github.com/dandetejaswini/leetcode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/dandetejaswini/leetcode/tree/master/2645-pass-the-pillow) |
 ## Number Theory
 |  |
