@@ -160,6 +160,7 @@
 | [0412-fizz-buzz](https://github.com/dandetejaswini/leetcode/tree/master/0412-fizz-buzz) |
 | [1720-crawler-log-folder](https://github.com/dandetejaswini/leetcode/tree/master/1720-crawler-log-folder) |
 | [2502-sort-the-people](https://github.com/dandetejaswini/leetcode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/dandetejaswini/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Array
 |  |
 | ------- |
@@ -168,6 +169,7 @@
 | [1635-number-of-good-pairs](https://github.com/dandetejaswini/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1720-crawler-log-folder](https://github.com/dandetejaswini/leetcode/tree/master/1720-crawler-log-folder) |
 | [2502-sort-the-people](https://github.com/dandetejaswini/leetcode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/dandetejaswini/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dandetejaswini/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
