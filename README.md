@@ -167,6 +167,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/dandetejaswini/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/dandetejaswini/leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dandetejaswini/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/dandetejaswini/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/dandetejaswini/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1720-crawler-log-folder](https://github.com/dandetejaswini/leetcode/tree/master/1720-crawler-log-folder) |
 | [2502-sort-the-people](https://github.com/dandetejaswini/leetcode/tree/master/2502-sort-the-people) |
@@ -179,6 +180,7 @@
 | [0242-valid-anagram](https://github.com/dandetejaswini/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/dandetejaswini/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/dandetejaswini/leetcode/tree/master/0389-find-the-difference) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/dandetejaswini/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/dandetejaswini/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2502-sort-the-people](https://github.com/dandetejaswini/leetcode/tree/master/2502-sort-the-people) |
 ## Counting
@@ -193,6 +195,7 @@
 | [0389-find-the-difference](https://github.com/dandetejaswini/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/dandetejaswini/leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dandetejaswini/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/dandetejaswini/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/dandetejaswini/leetcode/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dandetejaswini/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
