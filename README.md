@@ -143,6 +143,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dandetejaswini/leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/dandetejaswini/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/dandetejaswini/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/dandetejaswini/leetcode/tree/master/0344-reverse-string) |
@@ -168,6 +169,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dandetejaswini/leetcode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/dandetejaswini/leetcode/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/dandetejaswini/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/dandetejaswini/leetcode/tree/master/0414-third-maximum-number) |
@@ -258,4 +260,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/dandetejaswini/leetcode/tree/master/0191-number-of-1-bits) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dandetejaswini/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
