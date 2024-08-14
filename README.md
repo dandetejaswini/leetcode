@@ -107,6 +107,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dandetejaswini/leetcode/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/dandetejaswini/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dandetejaswini/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/dandetejaswini/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/dandetejaswini/leetcode/tree/master/0202-happy-number) |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/dandetejaswini/leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/dandetejaswini/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/dandetejaswini/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/dandetejaswini/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dandetejaswini/leetcode/tree/master/0344-reverse-string) |
@@ -226,6 +228,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/dandetejaswini/leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/dandetejaswini/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/dandetejaswini/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/dandetejaswini/leetcode/tree/master/0231-power-of-two) |
@@ -241,6 +244,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/dandetejaswini/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/dandetejaswini/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/dandetejaswini/leetcode/tree/master/0412-fizz-buzz) |
 | [1505-create-target-array-in-the-given-order](https://github.com/dandetejaswini/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
