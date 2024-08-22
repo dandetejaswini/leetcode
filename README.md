@@ -236,6 +236,7 @@
 | [0342-power-of-four](https://github.com/dandetejaswini/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/dandetejaswini/leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/dandetejaswini/leetcode/tree/master/0476-number-complement) |
+| [1054-complement-of-base-10-integer](https://github.com/dandetejaswini/leetcode/tree/master/1054-complement-of-base-10-integer) |
 ## Recursion
 |  |
 | ------- |
