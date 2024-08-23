@@ -170,6 +170,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/dandetejaswini/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/dandetejaswini/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/dandetejaswini/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3379-score-of-a-string](https://github.com/dandetejaswini/leetcode/tree/master/3379-score-of-a-string) |
 ## Array
 |  |
 | ------- |
