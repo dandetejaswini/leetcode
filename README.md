@@ -171,6 +171,7 @@
 | [2502-sort-the-people](https://github.com/dandetejaswini/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/dandetejaswini/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/dandetejaswini/leetcode/tree/master/3379-score-of-a-string) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/dandetejaswini/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Array
 |  |
 | ------- |
@@ -206,6 +207,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/dandetejaswini/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/dandetejaswini/leetcode/tree/master/2502-sort-the-people) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/dandetejaswini/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/dandetejaswini/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/dandetejaswini/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Counting
 |  |
