@@ -264,6 +264,7 @@
 ## Stack
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/dandetejaswini/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1720-crawler-log-folder](https://github.com/dandetejaswini/leetcode/tree/master/1720-crawler-log-folder) |
 ## Brainteaser
 |  |
@@ -286,4 +287,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dandetejaswini/leetcode/tree/master/0002-add-two-numbers) |
+## Tree
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/dandetejaswini/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/dandetejaswini/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
