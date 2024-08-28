@@ -107,6 +107,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dandetejaswini/leetcode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/dandetejaswini/leetcode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/dandetejaswini/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dandetejaswini/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/dandetejaswini/leetcode/tree/master/0070-climbing-stairs) |
@@ -155,6 +156,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/dandetejaswini/leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/dandetejaswini/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/dandetejaswini/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/dandetejaswini/leetcode/tree/master/0125-valid-palindrome) |
@@ -195,6 +197,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/dandetejaswini/leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/dandetejaswini/leetcode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/dandetejaswini/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/dandetejaswini/leetcode/tree/master/0242-valid-anagram) |
