@@ -152,6 +152,7 @@
 | [0011-container-with-most-water](https://github.com/dandetejaswini/leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/dandetejaswini/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/dandetejaswini/leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/dandetejaswini/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/dandetejaswini/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dandetejaswini/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/dandetejaswini/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -254,6 +255,7 @@
 | [0203-remove-linked-list-elements](https://github.com/dandetejaswini/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dandetejaswini/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/dandetejaswini/leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/dandetejaswini/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/dandetejaswini/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/dandetejaswini/leetcode/tree/master/1013-fibonacci-number) |
 ## Simulation
@@ -274,6 +276,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/dandetejaswini/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/dandetejaswini/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1720-crawler-log-folder](https://github.com/dandetejaswini/leetcode/tree/master/1720-crawler-log-folder) |
 ## Brainteaser
@@ -299,6 +302,7 @@
 | [0002-add-two-numbers](https://github.com/dandetejaswini/leetcode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/dandetejaswini/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dandetejaswini/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/dandetejaswini/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
