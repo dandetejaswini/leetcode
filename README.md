@@ -248,6 +248,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dandetejaswini/leetcode/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/dandetejaswini/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/dandetejaswini/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/dandetejaswini/leetcode/tree/master/0342-power-of-four) |
 ## Simulation
@@ -291,6 +292,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dandetejaswini/leetcode/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/dandetejaswini/leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Tree
 |  |
 | ------- |
