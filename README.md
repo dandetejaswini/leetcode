@@ -168,6 +168,7 @@
 | [0067-add-binary](https://github.com/dandetejaswini/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/dandetejaswini/leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/dandetejaswini/leetcode/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/dandetejaswini/leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dandetejaswini/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/dandetejaswini/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dandetejaswini/leetcode/tree/master/0344-reverse-string) |
@@ -335,4 +336,16 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/dandetejaswini/leetcode/tree/master/0386-lexicographical-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/dandetejaswini/leetcode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/dandetejaswini/leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/dandetejaswini/leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
