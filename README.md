@@ -326,5 +326,10 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/dandetejaswini/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/dandetejaswini/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/dandetejaswini/leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
