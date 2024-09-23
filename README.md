@@ -144,6 +144,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/dandetejaswini/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/dandetejaswini/leetcode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/dandetejaswini/leetcode/tree/master/1013-fibonacci-number) |
+| [2755-extra-characters-in-a-string](https://github.com/dandetejaswini/leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
 |  |
 | ------- |
@@ -186,6 +187,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/dandetejaswini/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/dandetejaswini/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/dandetejaswini/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/dandetejaswini/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3379-score-of-a-string](https://github.com/dandetejaswini/leetcode/tree/master/3379-score-of-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/dandetejaswini/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Array
@@ -208,6 +210,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/dandetejaswini/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/dandetejaswini/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/dandetejaswini/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/dandetejaswini/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dandetejaswini/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/dandetejaswini/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/dandetejaswini/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -228,6 +231,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/dandetejaswini/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dandetejaswini/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/dandetejaswini/leetcode/tree/master/2502-sort-the-people) |
+| [2755-extra-characters-in-a-string](https://github.com/dandetejaswini/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/dandetejaswini/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/dandetejaswini/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/dandetejaswini/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -341,6 +345,7 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/dandetejaswini/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/dandetejaswini/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/dandetejaswini/leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Rolling Hash
 |  |
 | ------- |
