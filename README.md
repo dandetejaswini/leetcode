@@ -164,6 +164,7 @@
 | [0344-reverse-string](https://github.com/dandetejaswini/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dandetejaswini/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/dandetejaswini/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dandetejaswini/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dandetejaswini/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dandetejaswini/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -188,6 +189,7 @@
 | [1205-defanging-an-ip-address](https://github.com/dandetejaswini/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1720-crawler-log-folder](https://github.com/dandetejaswini/leetcode/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dandetejaswini/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dandetejaswini/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dandetejaswini/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dandetejaswini/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dandetejaswini/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -327,6 +329,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/dandetejaswini/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/dandetejaswini/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/dandetejaswini/leetcode/tree/master/1720-crawler-log-folder) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dandetejaswini/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/dandetejaswini/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Brainteaser
 |  |
@@ -346,6 +349,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/dandetejaswini/leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/dandetejaswini/leetcode/tree/master/0179-largest-number) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dandetejaswini/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Linked List
 |  |
 | ------- |
