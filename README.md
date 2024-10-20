@@ -218,6 +218,7 @@
 | [0539-minimum-time-difference](https://github.com/dandetejaswini/leetcode/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dandetejaswini/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0729-my-calendar-i](https://github.com/dandetejaswini/leetcode/tree/master/0729-my-calendar-i) |
+| [0906-walking-robot-simulation](https://github.com/dandetejaswini/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dandetejaswini/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/dandetejaswini/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1505-create-target-array-in-the-given-order](https://github.com/dandetejaswini/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -250,6 +251,7 @@
 | [0389-find-the-difference](https://github.com/dandetejaswini/leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/dandetejaswini/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/dandetejaswini/leetcode/tree/master/0782-jewels-and-stones) |
+| [0906-walking-robot-simulation](https://github.com/dandetejaswini/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dandetejaswini/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dandetejaswini/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/dandetejaswini/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -322,6 +324,7 @@
 | [0067-add-binary](https://github.com/dandetejaswini/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/dandetejaswini/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/dandetejaswini/leetcode/tree/master/0412-fizz-buzz) |
+| [0906-walking-robot-simulation](https://github.com/dandetejaswini/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1505-create-target-array-in-the-given-order](https://github.com/dandetejaswini/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/dandetejaswini/leetcode/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dandetejaswini/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
