@@ -148,6 +148,7 @@
 | [0338-counting-bits](https://github.com/dandetejaswini/leetcode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/dandetejaswini/leetcode/tree/master/1013-fibonacci-number) |
 | [2755-extra-characters-in-a-string](https://github.com/dandetejaswini/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/dandetejaswini/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
@@ -236,6 +237,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/dandetejaswini/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/dandetejaswini/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/dandetejaswini/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/dandetejaswini/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dandetejaswini/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/dandetejaswini/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dandetejaswini/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -445,4 +447,8 @@
 |  |
 | ------- |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/dandetejaswini/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/dandetejaswini/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 <!---LeetCode Topics End-->
