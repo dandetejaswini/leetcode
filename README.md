@@ -194,6 +194,7 @@
 | [1304-longest-happy-string](https://github.com/dandetejaswini/leetcode/tree/master/1304-longest-happy-string) |
 | [1720-crawler-log-folder](https://github.com/dandetejaswini/leetcode/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dandetejaswini/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/dandetejaswini/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dandetejaswini/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dandetejaswini/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dandetejaswini/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -328,6 +329,7 @@
 | [0906-walking-robot-simulation](https://github.com/dandetejaswini/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1505-create-target-array-in-the-given-order](https://github.com/dandetejaswini/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/dandetejaswini/leetcode/tree/master/1642-water-bottles) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/dandetejaswini/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dandetejaswini/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2645-pass-the-pillow](https://github.com/dandetejaswini/leetcode/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/dandetejaswini/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -345,6 +347,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/dandetejaswini/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/dandetejaswini/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/dandetejaswini/leetcode/tree/master/1720-crawler-log-folder) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/dandetejaswini/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dandetejaswini/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/dandetejaswini/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Brainteaser
