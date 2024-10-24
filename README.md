@@ -144,6 +144,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dandetejaswini/leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/dandetejaswini/leetcode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dandetejaswini/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/dandetejaswini/leetcode/tree/master/0338-counting-bits) |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dandetejaswini/leetcode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/dandetejaswini/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/dandetejaswini/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/dandetejaswini/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/dandetejaswini/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -214,6 +216,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dandetejaswini/leetcode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/dandetejaswini/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/dandetejaswini/leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/dandetejaswini/leetcode/tree/master/0179-largest-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dandetejaswini/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -347,6 +350,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dandetejaswini/leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/dandetejaswini/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/dandetejaswini/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dandetejaswini/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -462,4 +466,8 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/dandetejaswini/leetcode/tree/master/1137-height-checker) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/dandetejaswini/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
