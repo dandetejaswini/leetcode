@@ -224,6 +224,7 @@
 | [0539-minimum-time-difference](https://github.com/dandetejaswini/leetcode/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dandetejaswini/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0729-my-calendar-i](https://github.com/dandetejaswini/leetcode/tree/master/0729-my-calendar-i) |
+| [0859-design-circular-deque](https://github.com/dandetejaswini/leetcode/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/dandetejaswini/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1137-height-checker](https://github.com/dandetejaswini/leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dandetejaswini/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -391,6 +392,7 @@
 | [0203-remove-linked-list-elements](https://github.com/dandetejaswini/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dandetejaswini/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/dandetejaswini/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0859-design-circular-deque](https://github.com/dandetejaswini/leetcode/tree/master/0859-design-circular-deque) |
 ## Tree
 |  |
 | ------- |
@@ -427,6 +429,7 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/dandetejaswini/leetcode/tree/master/0729-my-calendar-i) |
+| [0859-design-circular-deque](https://github.com/dandetejaswini/leetcode/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/dandetejaswini/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
@@ -470,4 +473,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dandetejaswini/leetcode/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/dandetejaswini/leetcode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
