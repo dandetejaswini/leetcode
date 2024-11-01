@@ -402,6 +402,7 @@
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/dandetejaswini/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/dandetejaswini/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/dandetejaswini/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1285-balance-a-binary-search-tree](https://github.com/dandetejaswini/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/dandetejaswini/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -436,6 +437,7 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/dandetejaswini/leetcode/tree/master/0729-my-calendar-i) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/dandetejaswini/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/dandetejaswini/leetcode/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/dandetejaswini/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
@@ -457,6 +459,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/dandetejaswini/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1304-longest-happy-string](https://github.com/dandetejaswini/leetcode/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/dandetejaswini/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Breadth-First Search
@@ -466,6 +469,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/dandetejaswini/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/dandetejaswini/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1285-balance-a-binary-search-tree](https://github.com/dandetejaswini/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/dandetejaswini/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -488,5 +492,10 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/dandetejaswini/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1285-balance-a-binary-search-tree](https://github.com/dandetejaswini/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/dandetejaswini/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
