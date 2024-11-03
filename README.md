@@ -192,6 +192,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/dandetejaswini/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0539-minimum-time-difference](https://github.com/dandetejaswini/leetcode/tree/master/0539-minimum-time-difference) |
 | [0782-jewels-and-stones](https://github.com/dandetejaswini/leetcode/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/dandetejaswini/leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dandetejaswini/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dandetejaswini/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/dandetejaswini/leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -435,6 +436,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/dandetejaswini/leetcode/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/dandetejaswini/leetcode/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
