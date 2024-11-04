@@ -216,6 +216,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dandetejaswini/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3379-score-of-a-string](https://github.com/dandetejaswini/leetcode/tree/master/3379-score-of-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/dandetejaswini/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3451-string-compression-iii](https://github.com/dandetejaswini/leetcode/tree/master/3451-string-compression-iii) |
 ## Array
 |  |
 | ------- |
