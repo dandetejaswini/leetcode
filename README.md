@@ -257,6 +257,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/dandetejaswini/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dandetejaswini/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/dandetejaswini/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3291-find-if-array-can-be-sorted](https://github.com/dandetejaswini/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dandetejaswini/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/dandetejaswini/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Hash Table
@@ -315,6 +316,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dandetejaswini/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/dandetejaswini/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dandetejaswini/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3291-find-if-array-can-be-sorted](https://github.com/dandetejaswini/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -329,6 +331,7 @@
 | [1054-complement-of-base-10-integer](https://github.com/dandetejaswini/leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dandetejaswini/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/dandetejaswini/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3291-find-if-array-can-be-sorted](https://github.com/dandetejaswini/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Recursion
 |  |
 | ------- |
