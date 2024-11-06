@@ -214,6 +214,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/dandetejaswini/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/dandetejaswini/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/dandetejaswini/leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/dandetejaswini/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dandetejaswini/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3379-score-of-a-string](https://github.com/dandetejaswini/leetcode/tree/master/3379-score-of-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/dandetejaswini/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -285,6 +286,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dandetejaswini/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/dandetejaswini/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/dandetejaswini/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/dandetejaswini/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dandetejaswini/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/dandetejaswini/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/dandetejaswini/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -298,6 +300,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/dandetejaswini/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dandetejaswini/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dandetejaswini/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/dandetejaswini/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -316,6 +319,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dandetejaswini/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/dandetejaswini/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dandetejaswini/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/dandetejaswini/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/dandetejaswini/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Bit Manipulation
 |  |
@@ -404,6 +408,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dandetejaswini/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/dandetejaswini/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/dandetejaswini/leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/dandetejaswini/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
 | ------- |
