@@ -141,6 +141,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/dandetejaswini/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0729-my-calendar-i](https://github.com/dandetejaswini/leetcode/tree/master/0729-my-calendar-i) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dandetejaswini/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dandetejaswini/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2716-prime-subtraction-operation](https://github.com/dandetejaswini/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dandetejaswini/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
@@ -252,6 +253,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/dandetejaswini/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dandetejaswini/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dandetejaswini/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dandetejaswini/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/dandetejaswini/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/dandetejaswini/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dandetejaswini/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
