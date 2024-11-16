@@ -274,6 +274,7 @@
 | [3291-find-if-array-can-be-sorted](https://github.com/dandetejaswini/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dandetejaswini/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/dandetejaswini/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dandetejaswini/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -507,6 +508,7 @@
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/dandetejaswini/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1138-grumpy-bookstore-owner](https://github.com/dandetejaswini/leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dandetejaswini/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
