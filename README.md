@@ -255,6 +255,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/dandetejaswini/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1720-crawler-log-folder](https://github.com/dandetejaswini/leetcode/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dandetejaswini/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1803-average-waiting-time](https://github.com/dandetejaswini/leetcode/tree/master/1803-average-waiting-time) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/dandetejaswini/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dandetejaswini/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dandetejaswini/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -380,6 +381,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/dandetejaswini/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/dandetejaswini/leetcode/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/dandetejaswini/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1803-average-waiting-time](https://github.com/dandetejaswini/leetcode/tree/master/1803-average-waiting-time) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dandetejaswini/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dandetejaswini/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2411-spiral-matrix-iv](https://github.com/dandetejaswini/leetcode/tree/master/2411-spiral-matrix-iv) |
