@@ -260,6 +260,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/dandetejaswini/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/dandetejaswini/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1720-crawler-log-folder](https://github.com/dandetejaswini/leetcode/tree/master/1720-crawler-log-folder) |
+| [1755-defuse-the-bomb](https://github.com/dandetejaswini/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dandetejaswini/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/dandetejaswini/leetcode/tree/master/1803-average-waiting-time) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/dandetejaswini/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -520,6 +521,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/dandetejaswini/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/dandetejaswini/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1138-grumpy-bookstore-owner](https://github.com/dandetejaswini/leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1755-defuse-the-bomb](https://github.com/dandetejaswini/leetcode/tree/master/1755-defuse-the-bomb) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dandetejaswini/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Heap (Priority Queue)
 |  |
