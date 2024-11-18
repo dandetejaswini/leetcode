@@ -250,6 +250,7 @@
 | [1138-grumpy-bookstore-owner](https://github.com/dandetejaswini/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1196-filling-bookcase-shelves](https://github.com/dandetejaswini/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dandetejaswini/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/dandetejaswini/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/dandetejaswini/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1505-create-target-array-in-the-given-order](https://github.com/dandetejaswini/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1511-count-number-of-teams](https://github.com/dandetejaswini/leetcode/tree/master/1511-count-number-of-teams) |
@@ -544,6 +545,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/dandetejaswini/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/dandetejaswini/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2411-spiral-matrix-iv](https://github.com/dandetejaswini/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/dandetejaswini/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
