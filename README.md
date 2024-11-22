@@ -124,6 +124,7 @@
 | [0412-fizz-buzz](https://github.com/dandetejaswini/leetcode/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/dandetejaswini/leetcode/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dandetejaswini/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0915-generate-random-point-in-a-circle](https://github.com/dandetejaswini/leetcode/tree/master/0915-generate-random-point-in-a-circle) |
 | [1013-fibonacci-number](https://github.com/dandetejaswini/leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dandetejaswini/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/dandetejaswini/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -619,4 +620,16 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/dandetejaswini/leetcode/tree/master/1511-count-number-of-teams) |
+## Geometry
+|  |
+| ------- |
+| [0915-generate-random-point-in-a-circle](https://github.com/dandetejaswini/leetcode/tree/master/0915-generate-random-point-in-a-circle) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0915-generate-random-point-in-a-circle](https://github.com/dandetejaswini/leetcode/tree/master/0915-generate-random-point-in-a-circle) |
+## Randomized
+|  |
+| ------- |
+| [0915-generate-random-point-in-a-circle](https://github.com/dandetejaswini/leetcode/tree/master/0915-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
