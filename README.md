@@ -621,6 +621,7 @@
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dandetejaswini/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [3189-find-champion-ii](https://github.com/dandetejaswini/leetcode/tree/master/3189-find-champion-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
