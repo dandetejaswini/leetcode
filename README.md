@@ -500,6 +500,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/dandetejaswini/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dandetejaswini/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/dandetejaswini/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [2201-valid-arrangement-of-pairs](https://github.com/dandetejaswini/leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/dandetejaswini/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Trie
 |  |
@@ -627,6 +628,7 @@
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dandetejaswini/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [2201-valid-arrangement-of-pairs](https://github.com/dandetejaswini/leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/dandetejaswini/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/dandetejaswini/leetcode/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/dandetejaswini/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -654,4 +656,8 @@
 |  |
 | ------- |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/dandetejaswini/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/dandetejaswini/leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
