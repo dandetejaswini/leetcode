@@ -146,6 +146,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/dandetejaswini/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dandetejaswini/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/dandetejaswini/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/dandetejaswini/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dandetejaswini/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dandetejaswini/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/dandetejaswini/leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -275,6 +276,7 @@
 | [1755-defuse-the-bomb](https://github.com/dandetejaswini/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dandetejaswini/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/dandetejaswini/leetcode/tree/master/1803-average-waiting-time) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/dandetejaswini/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1972-rotating-the-box](https://github.com/dandetejaswini/leetcode/tree/master/1972-rotating-the-box) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/dandetejaswini/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/dandetejaswini/leetcode/tree/master/2089-maximum-matrix-sum) |
