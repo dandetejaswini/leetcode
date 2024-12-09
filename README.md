@@ -152,6 +152,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dandetejaswini/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/dandetejaswini/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dandetejaswini/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3427-special-array-ii](https://github.com/dandetejaswini/leetcode/tree/master/3427-special-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -306,6 +307,7 @@
 | [3206-find-common-elements-between-two-arrays](https://github.com/dandetejaswini/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/dandetejaswini/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dandetejaswini/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3427-special-array-ii](https://github.com/dandetejaswini/leetcode/tree/master/3427-special-array-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/dandetejaswini/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/dandetejaswini/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dandetejaswini/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -562,6 +564,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/dandetejaswini/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/dandetejaswini/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/dandetejaswini/leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [3427-special-array-ii](https://github.com/dandetejaswini/leetcode/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
 | ------- |
