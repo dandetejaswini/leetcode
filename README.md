@@ -299,6 +299,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dandetejaswini/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/dandetejaswini/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dandetejaswini/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/dandetejaswini/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/dandetejaswini/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/dandetejaswini/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/dandetejaswini/leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -436,6 +437,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/dandetejaswini/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/dandetejaswini/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/dandetejaswini/leetcode/tree/master/2645-pass-the-pillow) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/dandetejaswini/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/dandetejaswini/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/dandetejaswini/leetcode/tree/master/2846-robot-collisions) |
 ## Number Theory
@@ -588,6 +590,7 @@
 | [1304-longest-happy-string](https://github.com/dandetejaswini/leetcode/tree/master/1304-longest-happy-string) |
 | [2164-two-best-non-overlapping-events](https://github.com/dandetejaswini/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/dandetejaswini/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/dandetejaswini/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/dandetejaswini/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Breadth-First Search
 |  |
