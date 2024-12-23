@@ -525,6 +525,7 @@
 | [1285-balance-a-binary-search-tree](https://github.com/dandetejaswini/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dandetejaswini/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/dandetejaswini/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/dandetejaswini/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/dandetejaswini/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -617,6 +618,7 @@
 | [0787-sliding-puzzle](https://github.com/dandetejaswini/leetcode/tree/master/0787-sliding-puzzle) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dandetejaswini/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/dandetejaswini/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/dandetejaswini/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/dandetejaswini/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/dandetejaswini/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/dandetejaswini/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -629,6 +631,7 @@
 | [1285-balance-a-binary-search-tree](https://github.com/dandetejaswini/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dandetejaswini/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/dandetejaswini/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/dandetejaswini/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/dandetejaswini/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Matrix
 |  |
