@@ -162,6 +162,7 @@
 | [0070-climbing-stairs](https://github.com/dandetejaswini/leetcode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dandetejaswini/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/dandetejaswini/leetcode/tree/master/0338-counting-bits) |
+| [0494-target-sum](https://github.com/dandetejaswini/leetcode/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/dandetejaswini/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1013-fibonacci-number](https://github.com/dandetejaswini/leetcode/tree/master/1013-fibonacci-number) |
 | [1196-filling-bookcase-shelves](https://github.com/dandetejaswini/leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -254,6 +255,7 @@
 | [0179-largest-number](https://github.com/dandetejaswini/leetcode/tree/master/0179-largest-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dandetejaswini/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/dandetejaswini/leetcode/tree/master/0414-third-maximum-number) |
+| [0494-target-sum](https://github.com/dandetejaswini/leetcode/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/dandetejaswini/leetcode/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dandetejaswini/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/dandetejaswini/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -720,4 +722,8 @@
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/dandetejaswini/leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/dandetejaswini/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
