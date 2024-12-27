@@ -165,6 +165,7 @@
 | [0494-target-sum](https://github.com/dandetejaswini/leetcode/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/dandetejaswini/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1013-fibonacci-number](https://github.com/dandetejaswini/leetcode/tree/master/1013-fibonacci-number) |
+| [1063-best-sightseeing-pair](https://github.com/dandetejaswini/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/dandetejaswini/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/dandetejaswini/leetcode/tree/master/1511-count-number-of-teams) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/dandetejaswini/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -265,6 +266,7 @@
 | [0859-design-circular-deque](https://github.com/dandetejaswini/leetcode/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/dandetejaswini/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/dandetejaswini/leetcode/tree/master/0906-walking-robot-simulation) |
+| [1063-best-sightseeing-pair](https://github.com/dandetejaswini/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1137-height-checker](https://github.com/dandetejaswini/leetcode/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/dandetejaswini/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/dandetejaswini/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
