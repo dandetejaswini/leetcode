@@ -168,6 +168,7 @@
 | [1063-best-sightseeing-pair](https://github.com/dandetejaswini/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/dandetejaswini/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/dandetejaswini/leetcode/tree/master/1511-count-number-of-teams) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/dandetejaswini/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/dandetejaswini/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2164-two-best-non-overlapping-events](https://github.com/dandetejaswini/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2755-extra-characters-in-a-string](https://github.com/dandetejaswini/leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -226,6 +227,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/dandetejaswini/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/dandetejaswini/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/dandetejaswini/leetcode/tree/master/1720-crawler-log-folder) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/dandetejaswini/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dandetejaswini/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/dandetejaswini/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/dandetejaswini/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -285,6 +287,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/dandetejaswini/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/dandetejaswini/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1720-crawler-log-folder](https://github.com/dandetejaswini/leetcode/tree/master/1720-crawler-log-folder) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/dandetejaswini/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/dandetejaswini/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dandetejaswini/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/dandetejaswini/leetcode/tree/master/1803-average-waiting-time) |
