@@ -304,6 +304,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dandetejaswini/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/dandetejaswini/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/dandetejaswini/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/dandetejaswini/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/dandetejaswini/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dandetejaswini/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/dandetejaswini/leetcode/tree/master/2502-sort-the-people) |
@@ -603,6 +604,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/dandetejaswini/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/dandetejaswini/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/dandetejaswini/leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [2358-number-of-ways-to-split-array](https://github.com/dandetejaswini/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/dandetejaswini/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/dandetejaswini/leetcode/tree/master/3427-special-array-ii) |
 ## Sliding Window
