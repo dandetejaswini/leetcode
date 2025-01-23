@@ -281,6 +281,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/dandetejaswini/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/dandetejaswini/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dandetejaswini/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1396-count-servers-that-communicate](https://github.com/dandetejaswini/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dandetejaswini/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/dandetejaswini/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/dandetejaswini/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -388,6 +389,7 @@
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dandetejaswini/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1396-count-servers-that-communicate](https://github.com/dandetejaswini/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dandetejaswini/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/dandetejaswini/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/dandetejaswini/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -567,6 +569,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/dandetejaswini/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dandetejaswini/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/dandetejaswini/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1396-count-servers-that-communicate](https://github.com/dandetejaswini/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/dandetejaswini/leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dandetejaswini/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/dandetejaswini/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -660,6 +663,7 @@
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dandetejaswini/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/dandetejaswini/leetcode/tree/master/0787-sliding-puzzle) |
+| [1396-count-servers-that-communicate](https://github.com/dandetejaswini/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/dandetejaswini/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dandetejaswini/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/dandetejaswini/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -685,6 +689,7 @@
 | ------- |
 | [0787-sliding-puzzle](https://github.com/dandetejaswini/leetcode/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/dandetejaswini/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/dandetejaswini/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/dandetejaswini/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1876-map-of-highest-peak](https://github.com/dandetejaswini/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/dandetejaswini/leetcode/tree/master/1972-rotating-the-box) |
@@ -725,6 +730,7 @@
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dandetejaswini/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1396-count-servers-that-communicate](https://github.com/dandetejaswini/leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Graph
 |  |
 | ------- |
