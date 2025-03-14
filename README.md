@@ -145,6 +145,7 @@
 | [0729-my-calendar-i](https://github.com/dandetejaswini/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/dandetejaswini/leetcode/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/dandetejaswini/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/dandetejaswini/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dandetejaswini/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/dandetejaswini/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/dandetejaswini/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -284,6 +285,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/dandetejaswini/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/dandetejaswini/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/dandetejaswini/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/dandetejaswini/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/dandetejaswini/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dandetejaswini/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/dandetejaswini/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
