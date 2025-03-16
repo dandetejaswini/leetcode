@@ -152,6 +152,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/dandetejaswini/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dandetejaswini/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dandetejaswini/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2665-minimum-time-to-repair-cars](https://github.com/dandetejaswini/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2716-prime-subtraction-operation](https://github.com/dandetejaswini/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/dandetejaswini/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/dandetejaswini/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -329,6 +330,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dandetejaswini/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/dandetejaswini/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dandetejaswini/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2665-minimum-time-to-repair-cars](https://github.com/dandetejaswini/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/dandetejaswini/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/dandetejaswini/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/dandetejaswini/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
