@@ -174,6 +174,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/dandetejaswini/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/dandetejaswini/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2164-two-best-non-overlapping-events](https://github.com/dandetejaswini/leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2262-solving-questions-with-brainpower](https://github.com/dandetejaswini/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/dandetejaswini/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/dandetejaswini/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/dandetejaswini/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -316,6 +317,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/dandetejaswini/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/dandetejaswini/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dandetejaswini/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2262-solving-questions-with-brainpower](https://github.com/dandetejaswini/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dandetejaswini/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/dandetejaswini/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/dandetejaswini/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
