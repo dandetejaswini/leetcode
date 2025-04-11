@@ -135,6 +135,7 @@
 | [2645-pass-the-pillow](https://github.com/dandetejaswini/leetcode/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/dandetejaswini/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2752-sum-multiples](https://github.com/dandetejaswini/leetcode/tree/master/2752-sum-multiples) |
+| [2998-count-symmetric-integers](https://github.com/dandetejaswini/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/dandetejaswini/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/dandetejaswini/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/dandetejaswini/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -821,4 +822,8 @@
 | ------- |
 | [0494-target-sum](https://github.com/dandetejaswini/leetcode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/dandetejaswini/leetcode/tree/master/1160-letter-tile-possibilities) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/dandetejaswini/leetcode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
