@@ -129,6 +129,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dandetejaswini/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/dandetejaswini/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/dandetejaswini/leetcode/tree/master/1642-water-bottles) |
+| [2050-count-good-numbers](https://github.com/dandetejaswini/leetcode/tree/master/2050-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/dandetejaswini/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/dandetejaswini/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/dandetejaswini/leetcode/tree/master/2556-convert-the-temperature) |
@@ -493,6 +494,7 @@
 | [1013-fibonacci-number](https://github.com/dandetejaswini/leetcode/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/dandetejaswini/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/dandetejaswini/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2050-count-good-numbers](https://github.com/dandetejaswini/leetcode/tree/master/2050-count-good-numbers) |
 ## Simulation
 |  |
 | ------- |
