@@ -154,6 +154,7 @@
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/dandetejaswini/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/dandetejaswini/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dandetejaswini/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/dandetejaswini/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dandetejaswini/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/dandetejaswini/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2716-prime-subtraction-operation](https://github.com/dandetejaswini/leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -327,6 +328,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/dandetejaswini/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/dandetejaswini/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/dandetejaswini/leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/dandetejaswini/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/dandetejaswini/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2465-shifting-letters-ii](https://github.com/dandetejaswini/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2478-longest-nice-subarray](https://github.com/dandetejaswini/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -671,6 +673,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dandetejaswini/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/dandetejaswini/leetcode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/dandetejaswini/leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/dandetejaswini/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/dandetejaswini/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/dandetejaswini/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/dandetejaswini/leetcode/tree/master/3427-special-array-ii) |
@@ -683,6 +686,7 @@
 | [1138-grumpy-bookstore-owner](https://github.com/dandetejaswini/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dandetejaswini/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/dandetejaswini/leetcode/tree/master/1755-defuse-the-bomb) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/dandetejaswini/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/dandetejaswini/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dandetejaswini/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/dandetejaswini/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
