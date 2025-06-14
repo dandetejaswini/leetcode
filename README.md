@@ -134,6 +134,7 @@
 | [2491-smallest-even-multiple](https://github.com/dandetejaswini/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/dandetejaswini/leetcode/tree/master/2556-convert-the-temperature) |
 | [2645-pass-the-pillow](https://github.com/dandetejaswini/leetcode/tree/master/2645-pass-the-pillow) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/dandetejaswini/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/dandetejaswini/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2752-sum-multiples](https://github.com/dandetejaswini/leetcode/tree/master/2752-sum-multiples) |
 | [2998-count-symmetric-integers](https://github.com/dandetejaswini/leetcode/tree/master/2998-count-symmetric-integers) |
@@ -569,6 +570,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/dandetejaswini/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/dandetejaswini/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dandetejaswini/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/dandetejaswini/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/dandetejaswini/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/dandetejaswini/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/dandetejaswini/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
