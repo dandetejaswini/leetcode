@@ -320,6 +320,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/dandetejaswini/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/dandetejaswini/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dandetejaswini/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/dandetejaswini/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/dandetejaswini/leetcode/tree/master/2145-grid-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dandetejaswini/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/dandetejaswini/leetcode/tree/master/2164-two-best-non-overlapping-events) |
