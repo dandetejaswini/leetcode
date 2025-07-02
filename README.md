@@ -184,6 +184,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/dandetejaswini/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/dandetejaswini/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/dandetejaswini/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3618-find-the-original-typed-string-ii](https://github.com/dandetejaswini/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -269,6 +270,7 @@
 | [3379-score-of-a-string](https://github.com/dandetejaswini/leetcode/tree/master/3379-score-of-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/dandetejaswini/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3451-string-compression-iii](https://github.com/dandetejaswini/leetcode/tree/master/3451-string-compression-iii) |
+| [3618-find-the-original-typed-string-ii](https://github.com/dandetejaswini/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Array
 |  |
 | ------- |
@@ -681,6 +683,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/dandetejaswini/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/dandetejaswini/leetcode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dandetejaswini/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/dandetejaswini/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Sliding Window
 |  |
 | ------- |
