@@ -141,6 +141,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/dandetejaswini/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/dandetejaswini/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/dandetejaswini/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/dandetejaswini/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -485,6 +486,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/dandetejaswini/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3291-find-if-array-can-be-sorted](https://github.com/dandetejaswini/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dandetejaswini/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/dandetejaswini/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -501,6 +503,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/dandetejaswini/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/dandetejaswini/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/dandetejaswini/leetcode/tree/master/2050-count-good-numbers) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/dandetejaswini/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
 |  |
 | ------- |
