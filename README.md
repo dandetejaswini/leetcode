@@ -142,6 +142,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/dandetejaswini/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/dandetejaswini/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/dandetejaswini/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3830-find-closest-person](https://github.com/dandetejaswini/leetcode/tree/master/3830-find-closest-person) |
 ## Binary Search
 |  |
 | ------- |
